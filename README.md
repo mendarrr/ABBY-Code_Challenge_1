@@ -14,16 +14,15 @@ The program checks the speed of car and outputs conditioned consequences dependi
 Program calculates the net salary of an individual when given the basic salary and the benefits.
 
 ## LIVE SITE
-https://mendarrr.github.io/ABBY__Code_Challenge_1/
-
+https://mendarrr.github.io/ABBY-Code_Challenge_1/
 ## TECHNOLOGIES
-HTML
-JavaScript
+1. HTML
+2. JavaScript
 
 ## CONTACT INFORMATION
 You can reach out to me through:
-Github (https://github.com/mendarr)
-Email (https://mail.google.com/mail/sarahabby541@gmail.com)
+- Github (https://github.com/mendarr)
+- Email (https://mail.google.com/mail/sarahabby541@gmail.com)
 
 ## LICENSE
 MIT license
