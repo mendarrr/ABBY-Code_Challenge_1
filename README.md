@@ -1,7 +1,7 @@
 # Week 1 Code Challenge
 
 ## AUTHOR
-[Abby Sarah] (https://github.com/mendarr)
+[Abby Sarah](https://github.com/mendarr)
 
 ## DESCRIPTION
 ### Student Grade Generator
