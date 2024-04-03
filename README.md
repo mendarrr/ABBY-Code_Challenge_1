@@ -20,9 +20,9 @@ https://mendarrr.github.io/ABBY-Code_Challenge_1/
 2. JavaScript
 
 ## CONTACT INFORMATION
-You can reach out to me through:
- - [Github](https://github.com/mendarr),
- - [Email](https://mail.google.com/mail/sarahabby541@gmail.com),
+Feel free to reach out to me through:
+ - [Github](https://github.com/mendarr)
+ - [Email](https://mail.google.com/mail/sarahabby541@gmail.com)
  - [Instagram](https://instagram.com/men.darr)
 
 ## LICENSE
