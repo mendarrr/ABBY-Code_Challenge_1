@@ -1,7 +1,7 @@
 # Week 1 Code Challenge
 
 ## AUTHOR
-Abby Sarah (https://github.com/mendarr)
+[Abby Sarah] (https://github.com/mendarr)
 
 ## DESCRIPTION
 ### Student Grade Generator
@@ -21,8 +21,9 @@ https://mendarrr.github.io/ABBY-Code_Challenge_1/
 
 ## CONTACT INFORMATION
 You can reach out to me through:
-- Github (https://github.com/mendarr)
-- Email (https://mail.google.com/mail/sarahabby541@gmail.com)
+- [Github] (https://github.com/mendarr)
+- [Email] (https://mail.google.com/mail/sarahabby541@gmail.com)
+- [Instagram] (https://instagram.com/men.darr)
 
 ## LICENSE
 MIT license
